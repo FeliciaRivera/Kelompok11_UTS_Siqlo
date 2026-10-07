@@ -1,0 +1,71 @@
+Kode Toko   : 1510
+No. Resi    : 1510-2026-10-06-31-0098
+Tanggal     : 06/10/2026  Jam: 15:24
+------------------------------------
+Jeans EZY x1 = Rp599,000
+Celana Lapis Hangat x1 = Rp599,000
+Shopping Bag x1 = Rp1,000
+------------------------------------
+Subtotal    : Rp1,199,000
+Diskon      : Rp25,000
+TOTAL       : Rp1,174,000
+Metode Bayar: Tunai
+Uang Diterima: Rp1,234,567
+Kembalian   : Rp60,567
+
+Kode Toko   : 1510
+No. Resi    : 1510-2026-10-06-31-0098
+Tanggal     : 06/10/2026  Jam: 15:24
+------------------------------------
+Jeans EZY x1 = Rp599,000
+Celana Lapis Hangat x1 = Rp599,000
+Shopping Bag x1 = Rp1,000
+------------------------------------
+Subtotal    : Rp1,199,000
+Diskon      : Rp25,000
+TOTAL       : Rp1,174,000
+Metode Bayar: Tunai
+Uang Diterima: Rp1,174,000
+Kembalian   : Rp0
+
+Kode Toko   : 1510
+No. Resi    : 1510-2026-10-06-31-0098
+Tanggal     : 06/10/2026  Jam: 15:24
+------------------------------------
+Jeans EZY x1 = Rp599,000
+Celana Lapis Hangat x1 = Rp599,000
+Shopping Bag x1 = Rp1,000
+------------------------------------
+Subtotal    : Rp1,199,000
+Diskon      : Rp25,000
+TOTAL       : Rp1,174,000
+Metode Bayar: Non-Tunai (BCA)
+
+Kode Toko   : 1510
+No. Resi    : 1510-2026-10-07-31-0098
+Tanggal     : 07/10/2026  Jam: 22:40
+------------------------------------
+Jeans EZY x1 = Rp599,000
+Celana Lapis Hangat x1 = Rp599,000
+Shopping Bag x1 = Rp1,000
+------------------------------------
+Subtotal    : Rp1,199,000
+Diskon      : Rp25,000
+TOTAL       : Rp1,174,000
+Metode Bayar: Tunai
+Uang Diterima: Rp1,174,000
+Kembalian   : Rp0
+
+Kode Toko   : 1510
+No. Resi    : 1510-2026-10-07-31-0098
+Tanggal     : 07/10/2026  Jam: 22:40
+------------------------------------
+Jeans EZY x1 = Rp599,000
+Celana Lapis Hangat x1 = Rp599,000
+Shopping Bag x1 = Rp1,000
+------------------------------------
+Subtotal    : Rp1,199,000
+Diskon      : Rp25,000
+TOTAL       : Rp1,174,000
+Metode Bayar: Non-Tunai (BCA)
+
